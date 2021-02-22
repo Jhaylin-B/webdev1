@@ -1,0 +1,46 @@
+
+
+
+img{width: 25%;
+height: 25%;
+object-fit: cover;
+}
+
+body {
+    background-image: url('images/zach.is.goat.jpg');
+}
+
+.zach-pass {top: 600px;
+    
+    position: absolute}
+ 
+
+.zach-shot {right: 100px;
+    position: fixed;}
+
+h1 {text-align: center;
+
+font-family: cursive;
+    color:whitesmoke
+}
+
+.player {width: 10%;
+    
+}
+
+.dribble {width: 10%;
+top: 400px;
+position: fixed;}
+
+.rukawa {position: absolute;
+right: 400px;
+top: 400px;
+height: 400px;}
+
+h2 {text-align: center;
+font-family: monospace;
+color: whitesmoke;
+top: 700px;
+position: relative;
+font-size: 500px;}
+
