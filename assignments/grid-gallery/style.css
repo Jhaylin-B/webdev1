@@ -1,0 +1,10 @@
+.grid-gallery{
+    background: blue;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1rem;
+}
+
+.grid-item{
+    width: 100%;
+}
