@@ -1,0 +1,9 @@
+.grid-item{
+    width: 100%;
+}
+.grid-gallery{
+    background-color: purple;
+    display: grid;
+    grid-gap: 1rem;
+    grid-template-columns: repeat(3, 1fr);
+}
